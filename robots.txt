@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maiconqatech.github.io/agendashow-landing/sitemap.xml
