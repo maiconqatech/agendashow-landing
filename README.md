@@ -8,7 +8,7 @@ ficar reconhecível como o mesmo produto.
 
 Não confundir com o [LandPageConvito](../LandPageConvito) ou o
 [LandPageImpulsoTech](../LandPageImpulsoTech): aquelas vendem outros
-produtos/serviços da Impulso Tech; esta vende o AgendaVip.
+produtos/serviços da Contech; esta vende o AgendaVip.
 
 ## Stack
 
